@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mFull optimizing C:\Users\Lenovo\Desktop\Racket_SAM_test\target\scala-2.12\racket_sam_test-test-opt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 1528812 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 2058240 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 4187296 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 4080761 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 6873 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 12259156 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 16712964 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 141676 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 33513 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 306945 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 602 -- invalidated: 616[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 3289[0m
+[0m[[0mdebug[0m] [0mEmitter (create Closure trees): 11154209 us[0m
+[0m[[0minfo[0m] [0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0mdebug[0m] [0mClosure: Compiler pass: 27322465 us[0m
+[0m[[0mdebug[0m] [0mClosure: Write result: 2774047 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 14 -- invalidated: 0 -- trees read: 743[0m

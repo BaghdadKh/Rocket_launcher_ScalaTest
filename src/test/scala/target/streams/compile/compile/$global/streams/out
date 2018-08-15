@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Lenovo\Desktop\Racket_SAM_test\src\test\scala\DemoTest.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Lenovo\Desktop\Racket_SAM_test\src\test\scala\DemoTest.scala:3:24: not found: type FlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0mclass DemoTest extends FlatSpec {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Lenovo\Desktop\Racket_SAM_test\src\test\scala\DemoTest.scala:9:22: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m  "multiply 2 to 2 " should "be 4 " in{[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
